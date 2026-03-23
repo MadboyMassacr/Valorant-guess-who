@@ -14,7 +14,7 @@ const agents = [
   { name: "Iso", role:"Duelist", img:"Agents/iso.png"},
   { name: "Jett", role: "Duelist", img: "https://media.valorant-api.com/agents/add6443a-41bd-e414-f6ad-e58d267f4e95/displayicon.png"},
   { name: "KAY/O", role: "Initiator", img: "https://media.valorant-api.com/agents/601dbbe7-43ce-be57-2a40-4abd24953621/displayicon.png"},
-  { name: "Killjoy", role: "Sentinel", img: "https://media.valorant-api.com/agents/1dbf2edd-4729-0984-3115-daa5eed44993/displayicon.png"},
+  { name: "Killjoy", role: "Sentinel", img: "Agents/kjj.png"},
   { name: "Miks", role:"Controller", img:"Agents/miks.webp"},
   { name: "Neon", role: "Duelist", img: "https://media.valorant-api.com/agents/bb2a4828-46eb-8cd1-e765-15848195d751/displayicon.png"},
   { name: "Omen", role: "Controller", img: "https://media.valorant-api.com/agents/8e253930-4c05-31dd-1b6c-968525494517/displayicon.png"},
